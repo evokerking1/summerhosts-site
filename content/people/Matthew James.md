@@ -27,10 +27,10 @@ description: Someone who makes "free" hosts.
 :::info
 
 The section below is formatted like this:
-* `user ID`
+* `discord user ID`
   * `discord username`
-    * `discord display name 1`
-    * `discord display name 2`
+    * `display name 1`
+    * `display name 2`
     * [...]
 
 :::
@@ -71,6 +71,8 @@ The section below is formatted like this:
     * `Arsenic`
     * `Ether²`
   * `ethxzr`
+    * `Ether`
+  * `ethpr`
     * `Ether`
 * `1173194704003805248`
   * `2tqr`
