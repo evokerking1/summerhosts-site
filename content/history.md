@@ -100,11 +100,23 @@ flowchart TD;
   ASC["Ascendant"];
   click ASC href "/hosts/Ascendant";
 
-  ALT10["Altare 10 (altr.cc)"];
+  ALT10["Altare 10 (altare.sh)"];
   click ALT10 href "/hosts/altare/10";
+  
+  ALT11["Altare 11 (altare.gg)"];
+  click ALT11 href "/hosts/altare/11";
 
-  NA1["NA1 (na1.host)"];
+  NA1["NA1 (na1.host)"]
   click NA1 href "/hosts/na1.host";
+
+  AZT["Aztec (aztec.host)"];
+  click AZT href "/hosts/syntexhosting.com";
+
+  SYN["SyntexHosting (syntexhosting.com)"];
+  click SYN href "/hosts/syntexhosting.com";
+
+  SYNO["SyntexOrigins"];
+  click SYNO href "/hosts/syntexhosting.com";
 
   HALN --> BAK;
   BAK --> PY;
@@ -160,6 +172,10 @@ flowchart TD;
   ASC --> D;
   ALT8 --> NA1;
   NA1 --> ALT10;
+  ALT10 --> AZT;
+  AZT -->|Rebranded| SYN;
+  ALT10 --> ALT11;
+  SYN --> SYNO;
 
   NE --> D;
   ZEN --> D;

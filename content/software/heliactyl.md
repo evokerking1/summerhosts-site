@@ -19,11 +19,12 @@ The first version was `Heliactyl 0.8.0` released on the 29th of October 2020. It
 * [heliactyl.com](https://heliactyl.com) (clamied by someone else)
 
 ## Developers
-Over the years Heliactyl has been developed by many different people and here are some:
+Over the years Heliactyl has been developed by many different people. Heres some of them
 * Matthew James (Ether) - developer of all Heliactyl versions
 * Ludo (achul123)
-* Ghostload - made Heliactyl 13
+* Ghostload - Heliactyl 13
 * kingtino
+* [Ciph](../people/Ciph.md)
 * and more...
 
 ## Code
@@ -67,9 +68,11 @@ Over the years Heliactyl has been developed by many different people and here ar
 * Heliactyl Next 14.2.0 [[Altare 6](../hosts/Altare/6.md)]
 * Heliactyl Next 14.4.1 (Next 14 with backports from Next 15 and support for Next 15’s [cryogenic 15](./cryogenic.md))
 * Heliactyl Next 14.5 [[Altare 7](../hosts/Altare/7.md)]
-* Heliactyl Next 15 [[Altare 8](../hosts/Altare/8.md)] ![next 15 branding](https://summerhosts.github.io/media/heliactyl/next_15/branding.webp) ![next 15 dashboard](https://summerhosts.github.io/media/heliactyl/next_15/dashboard.webp)
-* Heliactyl Next 16 ![next 16 branding](https://summerhosts.github.io/media/heliactyl/next_16/branding.png)
-* Heliactyl Next 16.1 (Palo Alto) [[Altare 10](../hosts/Altare/10.md)]
+* Heliactyl Next 15 (End Of Life since 2026) [[Altare 8](../hosts/Altare/8.md)] ![next 15 branding](https://summerhosts.github.io/media/heliactyl/next_15/branding.webp) ![next 15 dashboard](https://summerhosts.github.io/media/heliactyl/next_15/dashboard.webp)
+* Heliactyl Next 16 (will be supported until 2027) ![next 16 branding](https://summerhosts.github.io/media/heliactyl/next_16/branding.png)
+* Heliactyl Next 16.1 (Palo Alto)
+* Heliactyl Next 16.3.1 (New Palo Alto) [[Altare 10](../hosts/Altare/10.md)]
+* Heliactyl Next 17 (Sierra Vista) (rewrite) [[Altare 11](../hosts/Altare/11.md)]
 
 ## Images
 * ![Riptide preview](https://summerhosts.github.io/media/heliactyl/riptide.png)
