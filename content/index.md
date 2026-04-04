@@ -10,7 +10,8 @@ This is a website that aims to document the history of summer hosts, more specif
 Summer hosts are companies that provide hosting services that only last a few weeks or months. Most of the time the services they offer are free and they have a currency obtained through afking (you basically leave a page open in your browser and gain x coins per minute)
 
 ## History
-The [history page](./history.md) is a thing. Note that some of the text there is a link so dont hesitate to click on it.
+The [history page](./history.md) is a thing. Note that some of the text in the graph is a link so dont hesitate to click on it.
+Theres also the [archives](https://summerhosts.github.io/archives/) which are all of the messages with their attachments straight out of discord.
 
 ## Similar websites
 

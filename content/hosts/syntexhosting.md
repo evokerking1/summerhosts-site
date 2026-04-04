@@ -16,6 +16,33 @@ tags:
 * [Website](https://aztec.host)
 
 ## History
+### Launch
+First it launched as Aztec and was meant to be the premium version of [Altare 10](./Altare/10.md). These are announcements from the Altare discord.
+
+**<DateDisplay timestamp="1772152719922" />**  
+_Marcel (Marcel, `1475181707626807446`)_
+> VMs/Workstations are currently unavailable as they are being transitioned to our Aztec brand. There is no ETA at the moment, but Aztec will be launching soon. Thank you for your patience.
+> 
+
+**<DateDisplay timestamp="1772630385928" />**  
+_Wesley S (wesleyschokker, `1066059824346955886`)_
+> Aztec has officially launched! 🚀 To celebrate, we are kicking things off with a massive giveaway. We are giving away 5 free servers to get the community started!
+> 
+> Head over to ⁠events right now to enter and claim your spot! 🏆
+> 
+> Also open a ticket to claim your price. We will slowly roll out new nodes. At this moment there is only 1 node available (Germany).
+> 
+> https://aztec.host/
+> 
+> Happy hosting!
+> 
+> ^^ Aztec is the premium version of Altare.
+> Join the gang: https://discord.gg/jSSW6WpasH
+> 
+> @everyone
+> 
+
+### Rebrand
 **<DateDisplay timestamp="1772915624528" />**  
 The rebrand to syntexhosting was announced.
 It was using a modified version of the website and Heliactyl that was used in [Altare 10](../hosts/Altare/10.md)

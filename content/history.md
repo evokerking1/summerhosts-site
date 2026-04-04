@@ -110,13 +110,13 @@ flowchart TD;
   click NA1 href "/hosts/na1.host";
 
   AZT["Aztec (aztec.host)"];
-  click AZT href "/hosts/syntexhosting.com";
+  click AZT href "/hosts/syntexhosting";
 
   SYN["SyntexHosting (syntexhosting.com)"];
-  click SYN href "/hosts/syntexhosting.com";
+  click SYN href "/hosts/syntexhosting";
 
   SYNO["SyntexOrigins"];
-  click SYNO href "/hosts/syntexhosting.com";
+  click SYNO href "/hosts/syntexhosting";
 
   HALN --> BAK;
   BAK --> PY;
