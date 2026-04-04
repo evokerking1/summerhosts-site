@@ -3,11 +3,11 @@ title: Sabrina Goom
 description: a real person
 ---
 
-* His name is not actually Sabrina Goom
+* Her name is not actually Sabrina Goom
 * From Salisbury
 * Owner of [Octant](../hosts/octant.gg.md)
 * Founder and ex-CEO of [Sylant](https://sylant.net)
-* Founder of [Momanic](https://momanic.com)
+* Founder and ex-CEO of [Momanic](https://momanic.com)
 * Founder of [Ryth](https://ryth.sh)
 * `rm -rf`d the Halex 15 dashboard (<DateDisplay timestamp="1714241527755" />) and got banned for it
 ![rm rf result](https://summerhosts.github.io/media/halex/15/sabrina_rm.png)
