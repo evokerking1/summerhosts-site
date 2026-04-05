@@ -13,7 +13,7 @@ description: Someone who makes "free" hosts.
 * Owns [SRYDEN](../companies/SRYDEN.md)
 * Owns [ZTL](../companies/ztl.md)
 * Previous owner of [Octant](../hosts/octant.gg.md)
-* Developer of [Skyport](https://skyport.dev/) Argon [Heliactyl](../software/heliactyl.md) [Palladium](../software/palladium.md) [Radar](../software/radar.md) [Watchtower](../software/watchtower.md) [Cryogenic](../software/cryogenic.md) [Terra](../software/terra.md)
+* Developer of [Skyport](https://skyport.dev/), [Argon](../software/argon.md), [Heliactyl](../software/heliactyl.md), [Palladium](../software/palladium.md), [Radar](../software/radar.md), [Watchtower](../software/watchtower.md), [Cryogenic](../software/cryogenic.md) and [Terra](../software/terra.md)
 
 ## Socials
 * [GitHub](https://github.com/ethzr) - main account
