@@ -6,7 +6,7 @@ tags:
 ---
 
 ## Overview
-Skyport (formerly Tazor) is a panel made by [Matthew James](../people/Matthew%20James.md). Skyport is written in JavaScript.
+Skyport (formerly Tazor) is a panel made by [Matthew James](../people/Matthew%20James.md) written in JavaScript.
 
 ## Links
 * [Documentation](https://skyport.dev)
@@ -15,3 +15,6 @@ Skyport (formerly Tazor) is a panel made by [Matthew James](../people/Matthew%20
 * [Skyport Labs](https://github.com/skyportlabs) - by Ether
 * [Skyport Team](https://github.com/skyport-team) - by Achul
 * [Foundry Skyport](https://github.com/foundry-sh/skyport) - by Ether
+
+## Versions
+* Skyport 1 (Anima Vestra)
