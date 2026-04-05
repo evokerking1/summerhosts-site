@@ -72,7 +72,7 @@ Over the years Heliactyl has been developed by many different people. Heres some
 * Heliactyl Next 16 (will be supported until 2027) ![next 16 branding](https://summerhosts.github.io/media/heliactyl/next_16/branding.png)
 * Heliactyl Next 16.1 (Palo Alto)
 * Heliactyl Next 16.3.1 (New Palo Alto) [[Altare 10](../hosts/Altare/10.md)]
-* Heliactyl Next 17 (Sierra Vista) (rewrite) [[Altare 11](../hosts/Altare/11.md)]
+* Heliactyl Next 17 (Sierra Vista) (rewrite) [Altare 11]
 
 ## Images
 * ![Riptide preview](https://summerhosts.github.io/media/heliactyl/riptide.png)

@@ -104,7 +104,6 @@ flowchart TD;
   click ALT10 href "/hosts/altare/10";
   
   ALT11["Altare 11 (altare.gg)"];
-  click ALT11 href "/hosts/altare/11";
 
   NA1["NA1 (na1.host)"]
   click NA1 href "/hosts/na1.host";

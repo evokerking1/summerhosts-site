@@ -31,7 +31,7 @@ _Ether (ethpr, `1049816501567373383`)_
 > For questions, please refer to NA1's team / any people with the yellow role
 >
 > https://na1.host
-> ![messages/attachment_1466497367522935080.png](messages/attachment_1466497367522935080.png)
+> ![messages/attachment_1466497367522935080.png](https://summerhosts.github.io/archives/1%204%202026/assets/messages/attachment_1466497367522935080.png)
 
 **<DateDisplay timestamp="1769710692764" />**  
 _Ether (ethpr, `1049816501567373383`)_
