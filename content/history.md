@@ -105,6 +105,8 @@ flowchart TD;
   
   ALT11["Altare 11 (altare.gg)"];
 
+  ALT12["Altare 12 (altare.gg)"];
+
   NA1["NA1 (na1.host)"]
   click NA1 href "/hosts/na1.host";
 
@@ -174,6 +176,7 @@ flowchart TD;
   ALT10 --> AZT;
   AZT -->|Rebranded| SYN;
   ALT10 --> ALT11;
+  ALT11 --> ALT12;
   SYN --> SYNO;
 
   NE --> D;
